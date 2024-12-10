@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aqui podemos adicionar algumas variáveis CSS globais se necessário */
+:root {
+    --primary: #2563eb;
+    --secondary: #475569;
+  }
